@@ -1,72 +1,72 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;4
-"AC";"Defesa Pessoal";"Estadual";5
-"AL";"Defesa Pessoal";"Estadual";26
-"AL";"Defesa Pessoal";"Nacional";2
-"AL";"Defesa Pessoal";"Regional";2
-"AP";"Funcional";"Estadual";4
-"BA";"Defesa Pessoal";"Estadual";9
-"BA";"Defesa Pessoal";"Nacional";2
-"BA";"Funcional";"Estadual";7
-"CE";"Defesa Pessoal";"Estadual";6
-"CE";"Funcional";"Estadual";13
-"DF";"Caçador de Subsistência";;1
-"DF";"Defesa Pessoal";"Estadual";40
-"DF";"Defesa Pessoal";"Nacional";46
-"DF";"Funcional";"Nacional";2
-"DF";"Segurança Dignitario";"Nacional";4
-"ES";"Caçador de Subsistência";;1
-"ES";"Defesa Pessoal";"Estadual";39
-"ES";"Defesa Pessoal";"Nacional";2
-"ES";"Funcional";"Estadual";10
-"GO";"Caçador de Subsistência";;1
-"GO";"Defesa Pessoal";"Estadual";22
-"GO";"Funcional";"Estadual";12
-"GO";"Funcional";"Nacional";2
-"MA";"Caçador de Subsistência";;1
-"MA";"Defesa Pessoal";"Estadual";1
-"MA";"Funcional";"Estadual";2
-"MG";"Defesa Pessoal";"Estadual";5
-"MG";"Funcional";"Estadual";123
-"MS";"Defesa Pessoal";"Estadual";26
-"MS";"Defesa Pessoal";"Nacional";2
-"MT";"Caçador de Subsistência";;3
-"MT";"Defesa Pessoal";"Estadual";18
-"PA";"Caçador de Subsistência";;30
-"PA";"Defesa Pessoal";"Estadual";3
-"PA";"Defesa Pessoal";"Nacional";1
-"PA";"Funcional";"Estadual";6
-"PE";"Defesa Pessoal";"Estadual";9
-"PE";"Defesa Pessoal";"Nacional";1
-"PI";"Defesa Pessoal";"Estadual";3
-"PI";"Defesa Pessoal";"Nacional";2
-"PR";"Defesa Pessoal";"Estadual";13
-"PR";"Defesa Pessoal";"Nacional";7
-"PR";"Defesa Pessoal";"Regional";2
-"PR";"Funcional";"Estadual";68
-"PR";"Funcional";;7
-"RJ";"Caçador de Subsistência";;1
-"RJ";"Defesa Pessoal";"Estadual";52
-"RJ";"Defesa Pessoal";"Nacional";1
-"RJ";"Funcional";"Nacional";2
-"RN";"Defesa Pessoal";"Estadual";2
-"RN";"Funcional";"Estadual";3
-"RO";"Caçador de Subsistência";;3
-"RO";"Defesa Pessoal";"Estadual";1
-"RO";"Funcional";"Nacional";5
-"RS";"Defesa Pessoal";"Estadual";141
-"RS";"Defesa Pessoal";"Nacional";4
-"RS";"Defesa Pessoal";"Regional";7
-"RS";"Funcional";"Estadual";8
-"RS";"Funcional";"Nacional";1
-"SC";"Defesa Pessoal";"Estadual";17
-"SC";"Funcional";"Estadual";1
-"SC";"Funcional";"Nacional";2
-"SE";"Defesa Pessoal";"Estadual";2
-"SE";"Funcional";"Estadual";17
-"SP";"Caçador de Subsistência";;1
-"SP";"Defesa Pessoal";"Estadual";27
-"SP";"Funcional";"Estadual";236
-"SP";"Funcional";;27
-"TO";"Caçador de Subsistência";;1
-"TO";"Defesa Pessoal";"Estadual";1
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;4;set
+AC;Defesa Pessoal;Estadual;5;set
+AL;Defesa Pessoal;Estadual;26;set
+AL;Defesa Pessoal;Nacional;2;set
+AL;Defesa Pessoal;Regional;2;set
+AP;Funcional;Estadual;4;set
+BA;Defesa Pessoal;Estadual;9;set
+BA;Defesa Pessoal;Nacional;2;set
+BA;Funcional;Estadual;7;set
+CE;Defesa Pessoal;Estadual;6;set
+CE;Funcional;Estadual;13;set
+DF;Caçador de Subsistência;;1;set
+DF;Defesa Pessoal;Estadual;40;set
+DF;Defesa Pessoal;Nacional;46;set
+DF;Funcional;Nacional;2;set
+DF;Segurança Dignitario;Nacional;4;set
+ES;Caçador de Subsistência;;1;set
+ES;Defesa Pessoal;Estadual;39;set
+ES;Defesa Pessoal;Nacional;2;set
+ES;Funcional;Estadual;10;set
+GO;Caçador de Subsistência;;1;set
+GO;Defesa Pessoal;Estadual;22;set
+GO;Funcional;Estadual;12;set
+GO;Funcional;Nacional;2;set
+MA;Caçador de Subsistência;;1;set
+MA;Defesa Pessoal;Estadual;1;set
+MA;Funcional;Estadual;2;set
+MG;Defesa Pessoal;Estadual;5;set
+MG;Funcional;Estadual;123;set
+MS;Defesa Pessoal;Estadual;26;set
+MS;Defesa Pessoal;Nacional;2;set
+MT;Caçador de Subsistência;;3;set
+MT;Defesa Pessoal;Estadual;18;set
+PA;Caçador de Subsistência;;30;set
+PA;Defesa Pessoal;Estadual;3;set
+PA;Defesa Pessoal;Nacional;1;set
+PA;Funcional;Estadual;6;set
+PE;Defesa Pessoal;Estadual;9;set
+PE;Defesa Pessoal;Nacional;1;set
+PI;Defesa Pessoal;Estadual;3;set
+PI;Defesa Pessoal;Nacional;2;set
+PR;Defesa Pessoal;Estadual;13;set
+PR;Defesa Pessoal;Nacional;7;set
+PR;Defesa Pessoal;Regional;2;set
+PR;Funcional;Estadual;68;set
+PR;Funcional;;7;set
+RJ;Caçador de Subsistência;;1;set
+RJ;Defesa Pessoal;Estadual;52;set
+RJ;Defesa Pessoal;Nacional;1;set
+RJ;Funcional;Nacional;2;set
+RN;Defesa Pessoal;Estadual;2;set
+RN;Funcional;Estadual;3;set
+RO;Caçador de Subsistência;;3;set
+RO;Defesa Pessoal;Estadual;1;set
+RO;Funcional;Nacional;5;set
+RS;Defesa Pessoal;Estadual;141;set
+RS;Defesa Pessoal;Nacional;4;set
+RS;Defesa Pessoal;Regional;7;set
+RS;Funcional;Estadual;8;set
+RS;Funcional;Nacional;1;set
+SC;Defesa Pessoal;Estadual;17;set
+SC;Funcional;Estadual;1;set
+SC;Funcional;Nacional;2;set
+SE;Defesa Pessoal;Estadual;2;set
+SE;Funcional;Estadual;17;set
+SP;Caçador de Subsistência;;1;set
+SP;Defesa Pessoal;Estadual;27;set
+SP;Funcional;Estadual;236;set
+SP;Funcional;;27;set
+TO;Caçador de Subsistência;;1;set
+TO;Defesa Pessoal;Estadual;1;set

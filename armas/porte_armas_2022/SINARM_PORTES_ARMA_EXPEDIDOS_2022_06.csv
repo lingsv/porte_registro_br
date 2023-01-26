@@ -1,68 +1,68 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;20
-"AC";"Defesa Pessoal";"Estadual";5
-"AL";"Defesa Pessoal";"Estadual";16
-"AL";"Defesa Pessoal";"Nacional";1
-"AL";"Funcional";"Nacional";2
-"BA";"Defesa Pessoal";"Estadual";2
-"BA";"Funcional";"Estadual";24
-"CE";"Defesa Pessoal";"Estadual";4
-"CE";"Funcional";"Estadual";39
-"DF";"Caçador de Subsistência";;4
-"DF";"Defesa Pessoal";"Estadual";53
-"DF";"Defesa Pessoal";"Nacional";94
-"DF";"Funcional";"Estadual";11
-"DF";"Funcional";"Nacional";80
-"DF";"Segurança Dignitario";"Nacional";19
-"ES";"Defesa Pessoal";"Estadual";62
-"ES";"Defesa Pessoal";"Nacional";1
-"GO";"Caçador de Subsistência";;1
-"GO";"Defesa Pessoal";"Estadual";15
-"GO";"Funcional";"Estadual";24
-"MA";"Defesa Pessoal";"Estadual";2
-"MG";"Caçador de Subsistência";;1
-"MG";"Funcional";"Estadual";5
-"MG";"Funcional";"Nacional";1
-"MS";"Defesa Pessoal";"Estadual";13
-"MS";"Defesa Pessoal";"Nacional";2
-"MT";"Defesa Pessoal";"Estadual";23
-"MT";"Defesa Pessoal";"Nacional";5
-"PA";"Caçador de Subsistência";;48
-"PA";"Defesa Pessoal";"Estadual";4
-"PA";"Defesa Pessoal";"Nacional";2
-"PA";"Funcional";"Estadual";57
-"PB";"Defesa Pessoal";"Estadual";5
-"PB";"Defesa Pessoal";"Nacional";1
-"PB";"Funcional";"Estadual";3
-"PE";"Caçador de Subsistência";;1
-"PE";"Defesa Pessoal";"Estadual";9
-"PE";"Defesa Pessoal";"Regional";1
-"PE";"Funcional";"Estadual";22
-"PI";"Defesa Pessoal";"Estadual";1
-"PR";"Defesa Pessoal";"Estadual";5
-"PR";"Defesa Pessoal";"Nacional";5
-"PR";"Funcional";"Estadual";2
-"PR";"Funcional";;1
-"RJ";"Caçador de Subsistência";;1
-"RJ";"Defesa Pessoal";"Estadual";21
-"RJ";"Funcional";"Nacional";7
-"RJ";"Segurança Dignitario";"Nacional";8
-"RN";"Defesa Pessoal";"Estadual";3
-"RO";"Defesa Pessoal";"Estadual";3
-"RR";"Caçador de Subsistência";;2
-"RR";"Defesa Pessoal";"Estadual";1
-"RR";"Defesa Pessoal";"Nacional";1
-"RS";"Defesa Pessoal";"Estadual";96
-"RS";"Defesa Pessoal";"Nacional";8
-"RS";"Defesa Pessoal";"Regional";5
-"RS";"Funcional";"Estadual";30
-"RS";"Segurança Dignitario";"Nacional";1
-"SC";"Defesa Pessoal";"Estadual";13
-"SE";"Defesa Pessoal";"Nacional";2
-"SP";"Defesa Pessoal";"Estadual";29
-"SP";"Funcional";"Estadual";160
-"SP";"Funcional";"Nacional";8
-"TO";"Caçador de Subsistência";;1
-"TO";"Defesa Pessoal";"Estadual";1
-"TO";"Funcional";"Estadual";2
-"TO";"Funcional";"Nacional";2
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;20;jun
+AC;Defesa Pessoal;Estadual;5;jun
+AL;Defesa Pessoal;Estadual;16;jun
+AL;Defesa Pessoal;Nacional;1;jun
+AL;Funcional;Nacional;2;jun
+BA;Defesa Pessoal;Estadual;2;jun
+BA;Funcional;Estadual;24;jun
+CE;Defesa Pessoal;Estadual;4;jun
+CE;Funcional;Estadual;39;jun
+DF;Caçador de Subsistência;;4;jun
+DF;Defesa Pessoal;Estadual;53;jun
+DF;Defesa Pessoal;Nacional;94;jun
+DF;Funcional;Estadual;11;jun
+DF;Funcional;Nacional;80;jun
+DF;Segurança Dignitario;Nacional;19;jun
+ES;Defesa Pessoal;Estadual;62;jun
+ES;Defesa Pessoal;Nacional;1;jun
+GO;Caçador de Subsistência;;1;jun
+GO;Defesa Pessoal;Estadual;15;jun
+GO;Funcional;Estadual;24;jun
+MA;Defesa Pessoal;Estadual;2;jun
+MG;Caçador de Subsistência;;1;jun
+MG;Funcional;Estadual;5;jun
+MG;Funcional;Nacional;1;jun
+MS;Defesa Pessoal;Estadual;13;jun
+MS;Defesa Pessoal;Nacional;2;jun
+MT;Defesa Pessoal;Estadual;23;jun
+MT;Defesa Pessoal;Nacional;5;jun
+PA;Caçador de Subsistência;;48;jun
+PA;Defesa Pessoal;Estadual;4;jun
+PA;Defesa Pessoal;Nacional;2;jun
+PA;Funcional;Estadual;57;jun
+PB;Defesa Pessoal;Estadual;5;jun
+PB;Defesa Pessoal;Nacional;1;jun
+PB;Funcional;Estadual;3;jun
+PE;Caçador de Subsistência;;1;jun
+PE;Defesa Pessoal;Estadual;9;jun
+PE;Defesa Pessoal;Regional;1;jun
+PE;Funcional;Estadual;22;jun
+PI;Defesa Pessoal;Estadual;1;jun
+PR;Defesa Pessoal;Estadual;5;jun
+PR;Defesa Pessoal;Nacional;5;jun
+PR;Funcional;Estadual;2;jun
+PR;Funcional;;1;jun
+RJ;Caçador de Subsistência;;1;jun
+RJ;Defesa Pessoal;Estadual;21;jun
+RJ;Funcional;Nacional;7;jun
+RJ;Segurança Dignitario;Nacional;8;jun
+RN;Defesa Pessoal;Estadual;3;jun
+RO;Defesa Pessoal;Estadual;3;jun
+RR;Caçador de Subsistência;;2;jun
+RR;Defesa Pessoal;Estadual;1;jun
+RR;Defesa Pessoal;Nacional;1;jun
+RS;Defesa Pessoal;Estadual;96;jun
+RS;Defesa Pessoal;Nacional;8;jun
+RS;Defesa Pessoal;Regional;5;jun
+RS;Funcional;Estadual;30;jun
+RS;Segurança Dignitario;Nacional;1;jun
+SC;Defesa Pessoal;Estadual;13;jun
+SE;Defesa Pessoal;Nacional;2;jun
+SP;Defesa Pessoal;Estadual;29;jun
+SP;Funcional;Estadual;160;jun
+SP;Funcional;Nacional;8;jun
+TO;Caçador de Subsistência;;1;jun
+TO;Defesa Pessoal;Estadual;1;jun
+TO;Funcional;Estadual;2;jun
+TO;Funcional;Nacional;2;jun

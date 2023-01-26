@@ -1,61 +1,61 @@
-"UF";"CATEGORIA";"ABRANGENCIA";"TOTAL"
-"AC";"Caçador de Subsistência";"";10
-"AC";"Defesa Pessoal";"Estadual";5
-"AL";"Defesa Pessoal";"Estadual";19
-"AL";"Defesa Pessoal";"Nacional";3
-"AL";"Defesa Pessoal";"Regional";1
-"AL";"Funcional";"Estadual";110
-"AM";"Defesa Pessoal";"Regional";1
-"BA";"Defesa Pessoal";"Estadual";1
-"BA";"Funcional";"Estadual";30
-"CE";"Defesa Pessoal";"Estadual";2
-"CE";"Funcional";"Estadual";50
-"DF";"Defesa Pessoal";"Estadual";23
-"DF";"Defesa Pessoal";"Nacional";29
-"DF";"Funcional";"Nacional";4
-"ES";"Defesa Pessoal";"Estadual";54
-"ES";"Defesa Pessoal";"Nacional";3
-"GO";"Defesa Pessoal";"Estadual";34
-"GO";"Defesa Pessoal";"Nacional";3
-"GO";"Funcional";"Estadual";34
-"MA";"Defesa Pessoal";"Estadual";6
-"MG";"Defesa Pessoal";"Estadual";1
-"MG";"Defesa Pessoal";"Nacional";1
-"MG";"Funcional";"Nacional";1
-"MS";"Defesa Pessoal";"Estadual";9
-"MS";"Defesa Pessoal";"Nacional";2
-"MT";"Caçador de Subsistência";"";2
-"MT";"Defesa Pessoal";"Estadual";8
-"PA";"Caçador de Subsistência";"";7
-"PA";"Defesa Pessoal";"Estadual";13
-"PA";"Defesa Pessoal";"Nacional";1
-"PA";"Funcional";"Estadual";40
-"PA";"Funcional";"Nacional";1
-"PB";"Defesa Pessoal";"Estadual";3
-"PE";"Defesa Pessoal";"Estadual";7
-"PE";"Defesa Pessoal";"Nacional";2
-"PE";"Defesa Pessoal";"Regional";2
-"PE";"Funcional";"Nacional";7
-"PR";"Defesa Pessoal";"Estadual";14
-"PR";"Defesa Pessoal";"Nacional";4
-"PR";"Defesa Pessoal";"Regional";1
-"PR";"Funcional";"Nacional";1
-"RJ";"Defesa Pessoal";"Estadual";9
-"RJ";"Defesa Pessoal";"Nacional";1
-"RJ";"Funcional";"Estadual";2
-"RJ";"Funcional";"Nacional";4
-"RO";"Defesa Pessoal";"Estadual";2
-"RO";"Funcional";"Nacional";2
-"RR";"Defesa Pessoal";"Regional";1
-"RS";"Defesa Pessoal";"Estadual";134
-"RS";"Defesa Pessoal";"Nacional";16
-"RS";"Defesa Pessoal";"Regional";12
-"RS";"Funcional";"Estadual";22
-"SC";"Caçador de Subsistência";"";2
-"SC";"Defesa Pessoal";"Estadual";4
-"SE";"Funcional";"Estadual";3
-"SP";"Defesa Pessoal";"Estadual";17
-"SP";"Funcional";"Estadual";315
-"SP";"Funcional";"Regional";1
-"SP";"Funcional";"";6
-"TO";"Defesa Pessoal";"Estadual";3
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;10;fev
+AC;Defesa Pessoal;Estadual;5;fev
+AL;Defesa Pessoal;Estadual;19;fev
+AL;Defesa Pessoal;Nacional;3;fev
+AL;Defesa Pessoal;Regional;1;fev
+AL;Funcional;Estadual;110;fev
+AM;Defesa Pessoal;Regional;1;fev
+BA;Defesa Pessoal;Estadual;1;fev
+BA;Funcional;Estadual;30;fev
+CE;Defesa Pessoal;Estadual;2;fev
+CE;Funcional;Estadual;50;fev
+DF;Defesa Pessoal;Estadual;23;fev
+DF;Defesa Pessoal;Nacional;29;fev
+DF;Funcional;Nacional;4;fev
+ES;Defesa Pessoal;Estadual;54;fev
+ES;Defesa Pessoal;Nacional;3;fev
+GO;Defesa Pessoal;Estadual;34;fev
+GO;Defesa Pessoal;Nacional;3;fev
+GO;Funcional;Estadual;34;fev
+MA;Defesa Pessoal;Estadual;6;fev
+MG;Defesa Pessoal;Estadual;1;fev
+MG;Defesa Pessoal;Nacional;1;fev
+MG;Funcional;Nacional;1;fev
+MS;Defesa Pessoal;Estadual;9;fev
+MS;Defesa Pessoal;Nacional;2;fev
+MT;Caçador de Subsistência;;2;fev
+MT;Defesa Pessoal;Estadual;8;fev
+PA;Caçador de Subsistência;;7;fev
+PA;Defesa Pessoal;Estadual;13;fev
+PA;Defesa Pessoal;Nacional;1;fev
+PA;Funcional;Estadual;40;fev
+PA;Funcional;Nacional;1;fev
+PB;Defesa Pessoal;Estadual;3;fev
+PE;Defesa Pessoal;Estadual;7;fev
+PE;Defesa Pessoal;Nacional;2;fev
+PE;Defesa Pessoal;Regional;2;fev
+PE;Funcional;Nacional;7;fev
+PR;Defesa Pessoal;Estadual;14;fev
+PR;Defesa Pessoal;Nacional;4;fev
+PR;Defesa Pessoal;Regional;1;fev
+PR;Funcional;Nacional;1;fev
+RJ;Defesa Pessoal;Estadual;9;fev
+RJ;Defesa Pessoal;Nacional;1;fev
+RJ;Funcional;Estadual;2;fev
+RJ;Funcional;Nacional;4;fev
+RO;Defesa Pessoal;Estadual;2;fev
+RO;Funcional;Nacional;2;fev
+RR;Defesa Pessoal;Regional;1;fev
+RS;Defesa Pessoal;Estadual;134;fev
+RS;Defesa Pessoal;Nacional;16;fev
+RS;Defesa Pessoal;Regional;12;fev
+RS;Funcional;Estadual;22;fev
+SC;Caçador de Subsistência;;2;fev
+SC;Defesa Pessoal;Estadual;4;fev
+SE;Funcional;Estadual;3;fev
+SP;Defesa Pessoal;Estadual;17;fev
+SP;Funcional;Estadual;315;fev
+SP;Funcional;Regional;1;fev
+SP;Funcional;;6;fev
+TO;Defesa Pessoal;Estadual;3;fev

@@ -1,62 +1,62 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;2
-"AC";"Defesa Pessoal";"Estadual";4
-"AL";"Defesa Pessoal";"Estadual";11
-"AM";"Funcional";"Estadual";33
-"BA";"Defesa Pessoal";"Estadual";8
-"BA";"Defesa Pessoal";"Nacional";1
-"BA";"Funcional";"Estadual";27
-"BA";"Funcional";"Nacional";8
-"BA";"Segurança Dignitario";"Nacional";4
-"CE";"Defesa Pessoal";"Estadual";3
-"DF";"Defesa Pessoal";"Estadual";36
-"DF";"Defesa Pessoal";"Nacional";36
-"DF";"Funcional";"Estadual";5
-"DF";"Funcional";"Nacional";5
-"DF";"Segurança Dignitario";"Nacional";1
-"ES";"Defesa Pessoal";"Estadual";27
-"ES";"Defesa Pessoal";"Nacional";1
-"GO";"Defesa Pessoal";"Estadual";7
-"GO";"Funcional";"Estadual";1
-"MA";"Defesa Pessoal";"Estadual";4
-"MA";"Funcional";"Estadual";1
-"MG";"Defesa Pessoal";"Estadual";2
-"MG";"Funcional";"Estadual";95
-"MS";"Defesa Pessoal";"Estadual";6
-"MS";"Funcional";"Nacional";3
-"MT";"Defesa Pessoal";"Estadual";10
-"MT";"Defesa Pessoal";"Nacional";1
-"PA";"Caçador de Subsistência";;26
-"PA";"Defesa Pessoal";"Estadual";6
-"PA";"Funcional";"Estadual";3
-"PA";"Funcional";"Nacional";4
-"PB";"Defesa Pessoal";"Estadual";2
-"PB";"Funcional";"Nacional";1
-"PE";"Defesa Pessoal";"Estadual";14
-"PE";"Defesa Pessoal";"Nacional";1
-"PI";"Defesa Pessoal";"Estadual";1
-"PI";"Defesa Pessoal";"Nacional";1
-"PR";"Defesa Pessoal";"Estadual";5
-"PR";"Defesa Pessoal";"Nacional";2
-"PR";"Funcional";"Estadual";180
-"PR";"Funcional";;146
-"RJ";"Caçador de Subsistência";;1
-"RJ";"Defesa Pessoal";"Estadual";42
-"RJ";"Defesa Pessoal";"Nacional";1
-"RJ";"Funcional";"Estadual";7
-"RJ";"Funcional";"Nacional";15
-"RO";"Defesa Pessoal";"Estadual";10
-"RR";"Segurança Dignitario";"Estadual";2
-"RS";"Defesa Pessoal";"Estadual";91
-"RS";"Defesa Pessoal";"Nacional";5
-"RS";"Defesa Pessoal";"Regional";7
-"RS";"Funcional";"Estadual";6
-"SC";"Defesa Pessoal";"Estadual";25
-"SE";"Defesa Pessoal";"Estadual";7
-"SP";"Defesa Pessoal";"Estadual";23
-"SP";"Defesa Pessoal";"Nacional";1
-"SP";"Funcional";"Estadual";335
-"SP";"Funcional";;4
-"SP";"Segurança Dignitario";"Nacional";6
-"TO";"Defesa Pessoal";"Estadual";2
-"TO";"Funcional";"Estadual";5
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;2;out
+AC;Defesa Pessoal;Estadual;4;out
+AL;Defesa Pessoal;Estadual;11;out
+AM;Funcional;Estadual;33;out
+BA;Defesa Pessoal;Estadual;8;out
+BA;Defesa Pessoal;Nacional;1;out
+BA;Funcional;Estadual;27;out
+BA;Funcional;Nacional;8;out
+BA;Segurança Dignitario;Nacional;4;out
+CE;Defesa Pessoal;Estadual;3;out
+DF;Defesa Pessoal;Estadual;36;out
+DF;Defesa Pessoal;Nacional;36;out
+DF;Funcional;Estadual;5;out
+DF;Funcional;Nacional;5;out
+DF;Segurança Dignitario;Nacional;1;out
+ES;Defesa Pessoal;Estadual;27;out
+ES;Defesa Pessoal;Nacional;1;out
+GO;Defesa Pessoal;Estadual;7;out
+GO;Funcional;Estadual;1;out
+MA;Defesa Pessoal;Estadual;4;out
+MA;Funcional;Estadual;1;out
+MG;Defesa Pessoal;Estadual;2;out
+MG;Funcional;Estadual;95;out
+MS;Defesa Pessoal;Estadual;6;out
+MS;Funcional;Nacional;3;out
+MT;Defesa Pessoal;Estadual;10;out
+MT;Defesa Pessoal;Nacional;1;out
+PA;Caçador de Subsistência;;26;out
+PA;Defesa Pessoal;Estadual;6;out
+PA;Funcional;Estadual;3;out
+PA;Funcional;Nacional;4;out
+PB;Defesa Pessoal;Estadual;2;out
+PB;Funcional;Nacional;1;out
+PE;Defesa Pessoal;Estadual;14;out
+PE;Defesa Pessoal;Nacional;1;out
+PI;Defesa Pessoal;Estadual;1;out
+PI;Defesa Pessoal;Nacional;1;out
+PR;Defesa Pessoal;Estadual;5;out
+PR;Defesa Pessoal;Nacional;2;out
+PR;Funcional;Estadual;180;out
+PR;Funcional;;146;out
+RJ;Caçador de Subsistência;;1;out
+RJ;Defesa Pessoal;Estadual;42;out
+RJ;Defesa Pessoal;Nacional;1;out
+RJ;Funcional;Estadual;7;out
+RJ;Funcional;Nacional;15;out
+RO;Defesa Pessoal;Estadual;10;out
+RR;Segurança Dignitario;Estadual;2;out
+RS;Defesa Pessoal;Estadual;91;out
+RS;Defesa Pessoal;Nacional;5;out
+RS;Defesa Pessoal;Regional;7;out
+RS;Funcional;Estadual;6;out
+SC;Defesa Pessoal;Estadual;25;out
+SE;Defesa Pessoal;Estadual;7;out
+SP;Defesa Pessoal;Estadual;23;out
+SP;Defesa Pessoal;Nacional;1;out
+SP;Funcional;Estadual;335;out
+SP;Funcional;;4;out
+SP;Segurança Dignitario;Nacional;6;out
+TO;Defesa Pessoal;Estadual;2;out
+TO;Funcional;Estadual;5;out

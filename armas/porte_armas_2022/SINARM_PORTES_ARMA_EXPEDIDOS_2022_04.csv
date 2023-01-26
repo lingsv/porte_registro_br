@@ -1,63 +1,63 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;9
-"AC";"Defesa Pessoal";"Estadual";3
-"AL";"Defesa Pessoal";"Estadual";24
-"AL";"Defesa Pessoal";"Nacional";1
-"AM";"Caçador de Subsistência";;1
-"AM";"Defesa Pessoal";"Estadual";3
-"AM";"Segurança Dignitario";"Nacional";1
-"AP";"Defesa Pessoal";"Estadual";1
-"BA";"Funcional";"Estadual";6
-"CE";"Defesa Pessoal";"Estadual";3
-"CE";"Defesa Pessoal";"Nacional";1
-"CE";"Defesa Pessoal";"Regional";3
-"CE";"Funcional";"Estadual";3
-"DF";"Defesa Pessoal";"Estadual";58
-"DF";"Defesa Pessoal";"Nacional";59
-"DF";"Funcional";"Nacional";25
-"DF";"Segurança Dignitario";"Nacional";6
-"ES";"Defesa Pessoal";"Estadual";20
-"ES";"Defesa Pessoal";"Nacional";2
-"ES";"Funcional";"Nacional";1
-"GO";"Caçador de Subsistência";;1
-"GO";"Defesa Pessoal";"Estadual";16
-"GO";"Funcional";"Estadual";92
-"MA";"Defesa Pessoal";"Estadual";5
-"MG";"Defesa Pessoal";"Estadual";2
-"MS";"Defesa Pessoal";"Estadual";19
-"MS";"Defesa Pessoal";"Nacional";1
-"MT";"Caçador de Subsistência";;2
-"MT";"Defesa Pessoal";"Estadual";21
-"MT";"Funcional";"Nacional";4
-"PA";"Caçador de Subsistência";;14
-"PA";"Defesa Pessoal";"Estadual";17
-"PB";"Defesa Pessoal";"Estadual";1
-"PB";"Funcional";"Nacional";5
-"PE";"Defesa Pessoal";"Estadual";7
-"PE";"Defesa Pessoal";"Regional";1
-"PI";"Defesa Pessoal";"Estadual";1
-"PR";"Defesa Pessoal";"Estadual";16
-"PR";"Defesa Pessoal";"Nacional";2
-"PR";"Funcional";"Estadual";23
-"RJ";"Defesa Pessoal";"Estadual";10
-"RJ";"Funcional";"Estadual";1
-"RJ";"Funcional";"Nacional";2
-"RN";"Defesa Pessoal";"Estadual";5
-"RN";"Defesa Pessoal";"Nacional";1
-"RO";"Defesa Pessoal";"Estadual";4
-"RO";"Funcional";"Nacional";4
-"RR";"Defesa Pessoal";"Estadual";1
-"RS";"Defesa Pessoal";"Estadual";83
-"RS";"Defesa Pessoal";"Nacional";10
-"RS";"Defesa Pessoal";"Regional";7
-"RS";"Funcional";"Estadual";1
-"RS";"Funcional";"Nacional";2
-"SC";"Defesa Pessoal";"Estadual";11
-"SE";"Defesa Pessoal";"Estadual";2
-"SE";"Funcional";"Estadual";61
-"SP";"Defesa Pessoal";"Estadual";27
-"SP";"Defesa Pessoal";"Nacional";1
-"SP";"Funcional";"Estadual";286
-"SP";"Funcional";;1
-"SP";"Segurança Dignitario";"Nacional";10
-"TO";"Funcional";"Estadual";56
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;9;abril
+AC;Defesa Pessoal;Estadual;3;abril
+AL;Defesa Pessoal;Estadual;24;abril
+AL;Defesa Pessoal;Nacional;1;abril
+AM;Caçador de Subsistência;;1;abril
+AM;Defesa Pessoal;Estadual;3;abril
+AM;Segurança Dignitario;Nacional;1;abril
+AP;Defesa Pessoal;Estadual;1;abril
+BA;Funcional;Estadual;6;abril
+CE;Defesa Pessoal;Estadual;3;abril
+CE;Defesa Pessoal;Nacional;1;abril
+CE;Defesa Pessoal;Regional;3;abril
+CE;Funcional;Estadual;3;abril
+DF;Defesa Pessoal;Estadual;58;abril
+DF;Defesa Pessoal;Nacional;59;abril
+DF;Funcional;Nacional;25;abril
+DF;Segurança Dignitario;Nacional;6;abril
+ES;Defesa Pessoal;Estadual;20;abril
+ES;Defesa Pessoal;Nacional;2;abril
+ES;Funcional;Nacional;1;abril
+GO;Caçador de Subsistência;;1;abril
+GO;Defesa Pessoal;Estadual;16;abril
+GO;Funcional;Estadual;92;abril
+MA;Defesa Pessoal;Estadual;5;abril
+MG;Defesa Pessoal;Estadual;2;abril
+MS;Defesa Pessoal;Estadual;19;abril
+MS;Defesa Pessoal;Nacional;1;abril
+MT;Caçador de Subsistência;;2;abril
+MT;Defesa Pessoal;Estadual;21;abril
+MT;Funcional;Nacional;4;abril
+PA;Caçador de Subsistência;;14;abril
+PA;Defesa Pessoal;Estadual;17;abril
+PB;Defesa Pessoal;Estadual;1;abril
+PB;Funcional;Nacional;5;abril
+PE;Defesa Pessoal;Estadual;7;abril
+PE;Defesa Pessoal;Regional;1;abril
+PI;Defesa Pessoal;Estadual;1;abril
+PR;Defesa Pessoal;Estadual;16;abril
+PR;Defesa Pessoal;Nacional;2;abril
+PR;Funcional;Estadual;23;abril
+RJ;Defesa Pessoal;Estadual;10;abril
+RJ;Funcional;Estadual;1;abril
+RJ;Funcional;Nacional;2;abril
+RN;Defesa Pessoal;Estadual;5;abril
+RN;Defesa Pessoal;Nacional;1;abril
+RO;Defesa Pessoal;Estadual;4;abril
+RO;Funcional;Nacional;4;abril
+RR;Defesa Pessoal;Estadual;1;abril
+RS;Defesa Pessoal;Estadual;83;abril
+RS;Defesa Pessoal;Nacional;10;abril
+RS;Defesa Pessoal;Regional;7;abril
+RS;Funcional;Estadual;1;abril
+RS;Funcional;Nacional;2;abril
+SC;Defesa Pessoal;Estadual;11;abril
+SE;Defesa Pessoal;Estadual;2;abril
+SE;Funcional;Estadual;61;abril
+SP;Defesa Pessoal;Estadual;27;abril
+SP;Defesa Pessoal;Nacional;1;abril
+SP;Funcional;Estadual;286;abril
+SP;Funcional;;1;abril
+SP;Segurança Dignitario;Nacional;10;abril
+TO;Funcional;Estadual;56;abril

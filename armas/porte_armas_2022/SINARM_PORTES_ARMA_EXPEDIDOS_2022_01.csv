@@ -1,53 +1,53 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;15
-"AC";"Defesa Pessoal";"Estadual";3
-"AC";"Defesa Pessoal";"Regional";1
-"AL";"Defesa Pessoal";"Estadual";12
-"AL";"Defesa Pessoal";"Nacional";1
-"AL";"Defesa Pessoal";"Regional";1
-"AL";"Funcional";"Estadual";55
-"AM";"Caçador de Subsistência";;1
-"AP";"Defesa Pessoal";"Estadual";1
-"BA";"Funcional";"Estadual";9
-"CE";"Defesa Pessoal";"Estadual";2
-"CE";"Defesa Pessoal";"Nacional";1
-"CE";"Defesa Pessoal";"Regional";2
-"DF";"Defesa Pessoal";"Estadual";30
-"DF";"Defesa Pessoal";"Nacional";19
-"ES";"Defesa Pessoal";"Estadual";60
-"ES";"Defesa Pessoal";"Nacional";3
-"ES";"Funcional";"Estadual";5
-"GO";"Defesa Pessoal";"Estadual";18
-"GO";"Defesa Pessoal";"Nacional";2
-"GO";"Funcional";"Estadual";19
-"MA";"Defesa Pessoal";"Estadual";5
-"MG";"Defesa Pessoal";"Estadual";7
-"MG";"Funcional";"Nacional";1
-"MS";"Defesa Pessoal";"Estadual";44
-"MS";"Defesa Pessoal";"Nacional";8
-"MT";"Defesa Pessoal";"Estadual";22
-"MT";"Defesa Pessoal";"Nacional";1
-"PA";"Caçador de Subsistência";;19
-"PA";"Defesa Pessoal";"Estadual";9
-"PB";"Defesa Pessoal";"Estadual";3
-"PE";"Defesa Pessoal";"Estadual";10
-"PI";"Defesa Pessoal";"Estadual";2
-"PI";"Funcional";"Estadual";38
-"PR";"Defesa Pessoal";"Estadual";17
-"PR";"Defesa Pessoal";"Nacional";7
-"PR";"Defesa Pessoal";"Regional";1
-"PR";"Funcional";"Estadual";1
-"RJ";"Defesa Pessoal";"Estadual";4
-"RN";"Defesa Pessoal";"Estadual";1
-"RO";"Defesa Pessoal";"Estadual";12
-"RO";"Funcional";"Nacional";1
-"RS";"Defesa Pessoal";"Estadual";40
-"RS";"Defesa Pessoal";"Nacional";5
-"RS";"Funcional";"Estadual";6
-"SC";"Defesa Pessoal";"Estadual";12
-"SC";"Funcional";"Nacional";12
-"SE";"Defesa Pessoal";"Estadual";3
-"SE";"Funcional";"Estadual";68
-"SP";"Defesa Pessoal";"Estadual";29
-"SP";"Defesa Pessoal";"Nacional";3
-"SP";"Funcional";"Estadual";131
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;15;jan
+AC;Defesa Pessoal;Estadual;3;jan
+AC;Defesa Pessoal;Regional;1;jan
+AL;Defesa Pessoal;Estadual;12;jan
+AL;Defesa Pessoal;Nacional;1;jan
+AL;Defesa Pessoal;Regional;1;jan
+AL;Funcional;Estadual;55;jan
+AM;Caçador de Subsistência;;1;jan
+AP;Defesa Pessoal;Estadual;1;jan
+BA;Funcional;Estadual;9;jan
+CE;Defesa Pessoal;Estadual;2;jan
+CE;Defesa Pessoal;Nacional;1;jan
+CE;Defesa Pessoal;Regional;2;jan
+DF;Defesa Pessoal;Estadual;30;jan
+DF;Defesa Pessoal;Nacional;19;jan
+ES;Defesa Pessoal;Estadual;60;jan
+ES;Defesa Pessoal;Nacional;3;jan
+ES;Funcional;Estadual;5;jan
+GO;Defesa Pessoal;Estadual;18;jan
+GO;Defesa Pessoal;Nacional;2;jan
+GO;Funcional;Estadual;19;jan
+MA;Defesa Pessoal;Estadual;5;jan
+MG;Defesa Pessoal;Estadual;7;jan
+MG;Funcional;Nacional;1;jan
+MS;Defesa Pessoal;Estadual;44;jan
+MS;Defesa Pessoal;Nacional;8;jan
+MT;Defesa Pessoal;Estadual;22;jan
+MT;Defesa Pessoal;Nacional;1;jan
+PA;Caçador de Subsistência;;19;jan
+PA;Defesa Pessoal;Estadual;9;jan
+PB;Defesa Pessoal;Estadual;3;jan
+PE;Defesa Pessoal;Estadual;10;jan
+PI;Defesa Pessoal;Estadual;2;jan
+PI;Funcional;Estadual;38;jan
+PR;Defesa Pessoal;Estadual;17;jan
+PR;Defesa Pessoal;Nacional;7;jan
+PR;Defesa Pessoal;Regional;1;jan
+PR;Funcional;Estadual;1;jan
+RJ;Defesa Pessoal;Estadual;4;jan
+RN;Defesa Pessoal;Estadual;1;jan
+RO;Defesa Pessoal;Estadual;12;jan
+RO;Funcional;Nacional;1;jan
+RS;Defesa Pessoal;Estadual;40;jan
+RS;Defesa Pessoal;Nacional;5;jan
+RS;Funcional;Estadual;6;jan
+SC;Defesa Pessoal;Estadual;12;jan
+SC;Funcional;Nacional;12;jan
+SE;Defesa Pessoal;Estadual;3;jan
+SE;Funcional;Estadual;68;jan
+SP;Defesa Pessoal;Estadual;29;jan
+SP;Defesa Pessoal;Nacional;3;jan
+SP;Funcional;Estadual;131;jan

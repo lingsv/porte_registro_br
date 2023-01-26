@@ -1,62 +1,62 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;9
-"AC";"Defesa Pessoal";"Estadual";4
-"AL";"Defesa Pessoal";"Estadual";5
-"AL";"Funcional";"Nacional";7
-"AP";"Funcional";"Estadual";5
-"BA";"Defesa Pessoal";"Estadual";2
-"BA";"Funcional";"Estadual";17
-"CE";"Defesa Pessoal";"Estadual";4
-"CE";"Defesa Pessoal";"Regional";3
-"CE";"Funcional";"Estadual";14
-"DF";"Caçador de Subsistência";;2
-"DF";"Defesa Pessoal";"Estadual";30
-"DF";"Defesa Pessoal";"Nacional";59
-"DF";"Funcional";"Estadual";27
-"ES";"Defesa Pessoal";"Estadual";46
-"ES";"Funcional";"Nacional";9
-"GO";"Defesa Pessoal";"Estadual";9
-"GO";"Funcional";"Estadual";29
-"GO";"Funcional";"Nacional";5
-"MA";"Defesa Pessoal";"Estadual";2
-"MA";"Funcional";"Nacional";4
-"MG";"Defesa Pessoal";"Estadual";2
-"MG";"Defesa Pessoal";"Nacional";1
-"MG";"Funcional";"Estadual";177
-"MG";"Funcional";"Nacional";2
-"MS";"Defesa Pessoal";"Estadual";16
-"MS";"Funcional";"Estadual";4
-"MS";"Funcional";"Nacional";4
-"MT";"Defesa Pessoal";"Estadual";15
-"MT";"Defesa Pessoal";"Nacional";2
-"PA";"Caçador de Subsistência";;46
-"PA";"Defesa Pessoal";"Estadual";8
-"PB";"Defesa Pessoal";"Estadual";5
-"PB";"Funcional";"Estadual";3
-"PE";"Defesa Pessoal";"Estadual";11
-"PE";"Funcional";"Nacional";1
-"PI";"Defesa Pessoal";"Estadual";1
-"PI";"Defesa Pessoal";"Nacional";1
-"PI";"Funcional";"Estadual";1
-"PR";"Defesa Pessoal";"Estadual";18
-"PR";"Defesa Pessoal";"Regional";1
-"PR";"Funcional";"Estadual";4
-"RJ";"Defesa Pessoal";"Estadual";18
-"RJ";"Defesa Pessoal";"Nacional";1
-"RN";"Funcional";"Estadual";31
-"RO";"Defesa Pessoal";"Estadual";4
-"RO";"Funcional";"Nacional";1
-"RS";"Defesa Pessoal";"Estadual";87
-"RS";"Defesa Pessoal";"Nacional";5
-"RS";"Defesa Pessoal";"Regional";4
-"RS";"Funcional";"Estadual";14
-"SC";"Defesa Pessoal";"Estadual";11
-"SE";"Defesa Pessoal";"Estadual";1
-"SE";"Defesa Pessoal";"Nacional";1
-"SE";"Funcional";"Estadual";8
-"SP";"Defesa Pessoal";"Estadual";18
-"SP";"Defesa Pessoal";"Nacional";1
-"SP";"Funcional";"Estadual";208
-"SP";"Funcional";;3
-"SP";"Segurança Dignitario";"Nacional";2
-"TO";"Funcional";"Estadual";3
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;9;mai
+AC;Defesa Pessoal;Estadual;4;mai
+AL;Defesa Pessoal;Estadual;5;mai
+AL;Funcional;Nacional;7;mai
+AP;Funcional;Estadual;5;mai
+BA;Defesa Pessoal;Estadual;2;mai
+BA;Funcional;Estadual;17;mai
+CE;Defesa Pessoal;Estadual;4;mai
+CE;Defesa Pessoal;Regional;3;mai
+CE;Funcional;Estadual;14;mai
+DF;Caçador de Subsistência;;2;mai
+DF;Defesa Pessoal;Estadual;30;mai
+DF;Defesa Pessoal;Nacional;59;mai
+DF;Funcional;Estadual;27;mai
+ES;Defesa Pessoal;Estadual;46;mai
+ES;Funcional;Nacional;9;mai
+GO;Defesa Pessoal;Estadual;9;mai
+GO;Funcional;Estadual;29;mai
+GO;Funcional;Nacional;5;mai
+MA;Defesa Pessoal;Estadual;2;mai
+MA;Funcional;Nacional;4;mai
+MG;Defesa Pessoal;Estadual;2;mai
+MG;Defesa Pessoal;Nacional;1;mai
+MG;Funcional;Estadual;177;mai
+MG;Funcional;Nacional;2;mai
+MS;Defesa Pessoal;Estadual;16;mai
+MS;Funcional;Estadual;4;mai
+MS;Funcional;Nacional;4;mai
+MT;Defesa Pessoal;Estadual;15;mai
+MT;Defesa Pessoal;Nacional;2;mai
+PA;Caçador de Subsistência;;46;mai
+PA;Defesa Pessoal;Estadual;8;mai
+PB;Defesa Pessoal;Estadual;5;mai
+PB;Funcional;Estadual;3;mai
+PE;Defesa Pessoal;Estadual;11;mai
+PE;Funcional;Nacional;1;mai
+PI;Defesa Pessoal;Estadual;1;mai
+PI;Defesa Pessoal;Nacional;1;mai
+PI;Funcional;Estadual;1;mai
+PR;Defesa Pessoal;Estadual;18;mai
+PR;Defesa Pessoal;Regional;1;mai
+PR;Funcional;Estadual;4;mai
+RJ;Defesa Pessoal;Estadual;18;mai
+RJ;Defesa Pessoal;Nacional;1;mai
+RN;Funcional;Estadual;31;mai
+RO;Defesa Pessoal;Estadual;4;mai
+RO;Funcional;Nacional;1;mai
+RS;Defesa Pessoal;Estadual;87;mai
+RS;Defesa Pessoal;Nacional;5;mai
+RS;Defesa Pessoal;Regional;4;mai
+RS;Funcional;Estadual;14;mai
+SC;Defesa Pessoal;Estadual;11;mai
+SE;Defesa Pessoal;Estadual;1;mai
+SE;Defesa Pessoal;Nacional;1;mai
+SE;Funcional;Estadual;8;mai
+SP;Defesa Pessoal;Estadual;18;mai
+SP;Defesa Pessoal;Nacional;1;mai
+SP;Funcional;Estadual;208;mai
+SP;Funcional;;3;mai
+SP;Segurança Dignitario;Nacional;2;mai
+TO;Funcional;Estadual;3;mai

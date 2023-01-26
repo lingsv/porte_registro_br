@@ -1,66 +1,66 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;4
-"AC";"Defesa Pessoal";"Estadual";12
-"AC";"Defesa Pessoal";"Nacional";1
-"AC";"Defesa Pessoal";"Regional";1
-"AL";"Defesa Pessoal";"Estadual";8
-"AL";"Defesa Pessoal";"Nacional";2
-"AM";"Defesa Pessoal";"Estadual";1
-"AM";"Funcional";"Estadual";8
-"AP";"Funcional";"Estadual";1
-"BA";"Defesa Pessoal";"Estadual";6
-"BA";"Defesa Pessoal";"Nacional";1
-"BA";"Funcional";"Estadual";6
-"CE";"Defesa Pessoal";"Estadual";7
-"CE";"Funcional";"Estadual";7
-"DF";"Defesa Pessoal";"Estadual";38
-"DF";"Defesa Pessoal";"Nacional";29
-"DF";"Segurança Dignitario";"Nacional";4
-"ES";"Defesa Pessoal";"Estadual";41
-"ES";"Defesa Pessoal";"Nacional";2
-"ES";"Funcional";"Estadual";32
-"GO";"Defesa Pessoal";"Estadual";14
-"GO";"Funcional";"Estadual";7
-"MA";"Defesa Pessoal";"Estadual";2
-"MG";"Defesa Pessoal";"Estadual";2
-"MG";"Funcional";"Estadual";74
-"MS";"Defesa Pessoal";"Estadual";8
-"MT";"Defesa Pessoal";"Estadual";9
-"MT";"Defesa Pessoal";"Nacional";2
-"MT";"Funcional";"Estadual";1
-"MT";"Funcional";"Nacional";1
-"PA";"Caçador de Subsistência";;49
-"PA";"Defesa Pessoal";"Estadual";7
-"PA";"Funcional";"Estadual";2
-"PB";"Funcional";"Estadual";64
-"PE";"Defesa Pessoal";"Estadual";8
-"PE";"Defesa Pessoal";"Nacional";2
-"PE";"Funcional";"Estadual";30
-"PE";"Funcional";"Nacional";2
-"PI";"Caçador de Subsistência";;1
-"PI";"Defesa Pessoal";"Estadual";3
-"PR";"Defesa Pessoal";"Estadual";13
-"PR";"Defesa Pessoal";"Nacional";3
-"PR";"Funcional";"Estadual";22
-"PR";"Funcional";;2
-"RJ";"Defesa Pessoal";"Estadual";26
-"RJ";"Defesa Pessoal";"Nacional";1
-"RJ";"Funcional";"Nacional";44
-"RN";"Defesa Pessoal";"Estadual";1
-"RO";"Defesa Pessoal";"Estadual";2
-"RR";"Defesa Pessoal";"Estadual";1
-"RR";"Funcional";"Estadual";38
-"RS";"Defesa Pessoal";"Estadual";86
-"RS";"Defesa Pessoal";"Nacional";4
-"RS";"Defesa Pessoal";"Regional";4
-"RS";"Funcional";"Estadual";4
-"RS";"Funcional";"Nacional";4
-"SC";"Defesa Pessoal";"Estadual";16
-"SC";"Funcional";"Estadual";5
-"SE";"Defesa Pessoal";"Estadual";4
-"SE";"Defesa Pessoal";"Nacional";1
-"SE";"Funcional";"Estadual";14
-"SP";"Defesa Pessoal";"Estadual";34
-"SP";"Funcional";"Estadual";303
-"TO";"Defesa Pessoal";"Estadual";1
-"TO";"Funcional";"Estadual";13
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;4;nov
+AC;Defesa Pessoal;Estadual;12;nov
+AC;Defesa Pessoal;Nacional;1;nov
+AC;Defesa Pessoal;Regional;1;nov
+AL;Defesa Pessoal;Estadual;8;nov
+AL;Defesa Pessoal;Nacional;2;nov
+AM;Defesa Pessoal;Estadual;1;nov
+AM;Funcional;Estadual;8;nov
+AP;Funcional;Estadual;1;nov
+BA;Defesa Pessoal;Estadual;6;nov
+BA;Defesa Pessoal;Nacional;1;nov
+BA;Funcional;Estadual;6;nov
+CE;Defesa Pessoal;Estadual;7;nov
+CE;Funcional;Estadual;7;nov
+DF;Defesa Pessoal;Estadual;38;nov
+DF;Defesa Pessoal;Nacional;29;nov
+DF;Segurança Dignitario;Nacional;4;nov
+ES;Defesa Pessoal;Estadual;41;nov
+ES;Defesa Pessoal;Nacional;2;nov
+ES;Funcional;Estadual;32;nov
+GO;Defesa Pessoal;Estadual;14;nov
+GO;Funcional;Estadual;7;nov
+MA;Defesa Pessoal;Estadual;2;nov
+MG;Defesa Pessoal;Estadual;2;nov
+MG;Funcional;Estadual;74;nov
+MS;Defesa Pessoal;Estadual;8;nov
+MT;Defesa Pessoal;Estadual;9;nov
+MT;Defesa Pessoal;Nacional;2;nov
+MT;Funcional;Estadual;1;nov
+MT;Funcional;Nacional;1;nov
+PA;Caçador de Subsistência;;49;nov
+PA;Defesa Pessoal;Estadual;7;nov
+PA;Funcional;Estadual;2;nov
+PB;Funcional;Estadual;64;nov
+PE;Defesa Pessoal;Estadual;8;nov
+PE;Defesa Pessoal;Nacional;2;nov
+PE;Funcional;Estadual;30;nov
+PE;Funcional;Nacional;2;nov
+PI;Caçador de Subsistência;;1;nov
+PI;Defesa Pessoal;Estadual;3;nov
+PR;Defesa Pessoal;Estadual;13;nov
+PR;Defesa Pessoal;Nacional;3;nov
+PR;Funcional;Estadual;22;nov
+PR;Funcional;;2;nov
+RJ;Defesa Pessoal;Estadual;26;nov
+RJ;Defesa Pessoal;Nacional;1;nov
+RJ;Funcional;Nacional;44;nov
+RN;Defesa Pessoal;Estadual;1;nov
+RO;Defesa Pessoal;Estadual;2;nov
+RR;Defesa Pessoal;Estadual;1;nov
+RR;Funcional;Estadual;38;nov
+RS;Defesa Pessoal;Estadual;86;nov
+RS;Defesa Pessoal;Nacional;4;nov
+RS;Defesa Pessoal;Regional;4;nov
+RS;Funcional;Estadual;4;nov
+RS;Funcional;Nacional;4;nov
+SC;Defesa Pessoal;Estadual;16;nov
+SC;Funcional;Estadual;5;nov
+SE;Defesa Pessoal;Estadual;4;nov
+SE;Defesa Pessoal;Nacional;1;nov
+SE;Funcional;Estadual;14;nov
+SP;Defesa Pessoal;Estadual;34;nov
+SP;Funcional;Estadual;303;nov
+TO;Defesa Pessoal;Estadual;1;nov
+TO;Funcional;Estadual;13;nov

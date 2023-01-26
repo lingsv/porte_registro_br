@@ -1,63 +1,63 @@
-"UF";"CATEGORIA";"ABRANGENCIA";TOTAL
-"AC";"Caçador de Subsistência";;1
-"AC";"Defesa Pessoal";"Estadual";1
-"AL";"Defesa Pessoal";"Estadual";30
-"AL";"Defesa Pessoal";"Nacional";5
-"AL";"Defesa Pessoal";"Regional";1
-"AL";"Funcional";"Estadual";24
-"AM";"Defesa Pessoal";"Regional";1
-"AP";"Funcional";"Estadual";10
-"BA";"Funcional";"Estadual";19
-"CE";"Defesa Pessoal";"Estadual";2
-"CE";"Defesa Pessoal";"Nacional";2
-"CE";"Funcional";"Estadual";157
-"DF";"Defesa Pessoal";"Estadual";46
-"DF";"Defesa Pessoal";"Nacional";60
-"DF";"Funcional";"Nacional";22
-"DF";"Segurança Dignitario";"Estadual";2
-"DF";"Segurança Dignitario";"Nacional";13
-"ES";"Defesa Pessoal";"Estadual";44
-"ES";"Defesa Pessoal";"Nacional";2
-"ES";"Defesa Pessoal";"Regional";1
-"ES";"Funcional";"Estadual";3
-"GO";"Defesa Pessoal";"Estadual";19
-"GO";"Funcional";"Estadual";35
-"MA";"Defesa Pessoal";"Estadual";4
-"MG";"Defesa Pessoal";"Estadual";2
-"MG";"Funcional";"Estadual";32
-"MG";"Funcional";"Nacional";1
-"MS";"Defesa Pessoal";"Estadual";39
-"MS";"Defesa Pessoal";"Nacional";2
-"MT";"Defesa Pessoal";"Estadual";16
-"PA";"Caçador de Subsistência";;36
-"PA";"Defesa Pessoal";"Estadual";11
-"PB";"Defesa Pessoal";"Estadual";3
-"PE";"Defesa Pessoal";"Estadual";4
-"PE";"Defesa Pessoal";"Regional";1
-"PE";"Segurança Dignitario";"Nacional";5
-"PI";"Defesa Pessoal";"Estadual";2
-"PR";"Defesa Pessoal";"Estadual";8
-"PR";"Defesa Pessoal";"Nacional";5
-"PR";"Funcional";"Nacional";15
-"RJ";"Defesa Pessoal";"Estadual";4
-"RJ";"Segurança Dignitario";"Nacional";18
-"RN";"Defesa Pessoal";"Estadual";5
-"RN";"Funcional";"Estadual";6
-"RO";"Defesa Pessoal";"Estadual";7
-"RR";"Defesa Pessoal";"Estadual";2
-"RS";"Defesa Pessoal";"Estadual";78
-"RS";"Defesa Pessoal";"Nacional";4
-"RS";"Defesa Pessoal";"Regional";8
-"RS";"Funcional";"Estadual";5
-"SC";"Caçador de Subsistência";;5
-"SC";"Defesa Pessoal";"Estadual";5
-"SC";"Funcional";"Estadual";10
-"SE";"Defesa Pessoal";"Estadual";1
-"SE";"Funcional";"Estadual";19
-"SP";"Defesa Pessoal";"Estadual";44
-"SP";"Defesa Pessoal";"Nacional";2
-"SP";"Funcional";"Estadual";435
-"SP";"Funcional";;4
-"SP";"Segurança Dignitario";"Nacional";2
-"TO";"Defesa Pessoal";"Estadual";1
-"TO";"Funcional";"Estadual";4
+UF;CATEGORIA;ABRANGENCIA;TOTAL;mes
+AC;Caçador de Subsistência;;1;mar
+AC;Defesa Pessoal;Estadual;1;mar
+AL;Defesa Pessoal;Estadual;30;mar
+AL;Defesa Pessoal;Nacional;5;mar
+AL;Defesa Pessoal;Regional;1;mar
+AL;Funcional;Estadual;24;mar
+AM;Defesa Pessoal;Regional;1;mar
+AP;Funcional;Estadual;10;mar
+BA;Funcional;Estadual;19;mar
+CE;Defesa Pessoal;Estadual;2;mar
+CE;Defesa Pessoal;Nacional;2;mar
+CE;Funcional;Estadual;157;mar
+DF;Defesa Pessoal;Estadual;46;mar
+DF;Defesa Pessoal;Nacional;60;mar
+DF;Funcional;Nacional;22;mar
+DF;Segurança Dignitario;Estadual;2;mar
+DF;Segurança Dignitario;Nacional;13;mar
+ES;Defesa Pessoal;Estadual;44;mar
+ES;Defesa Pessoal;Nacional;2;mar
+ES;Defesa Pessoal;Regional;1;mar
+ES;Funcional;Estadual;3;mar
+GO;Defesa Pessoal;Estadual;19;mar
+GO;Funcional;Estadual;35;mar
+MA;Defesa Pessoal;Estadual;4;mar
+MG;Defesa Pessoal;Estadual;2;mar
+MG;Funcional;Estadual;32;mar
+MG;Funcional;Nacional;1;mar
+MS;Defesa Pessoal;Estadual;39;mar
+MS;Defesa Pessoal;Nacional;2;mar
+MT;Defesa Pessoal;Estadual;16;mar
+PA;Caçador de Subsistência;;36;mar
+PA;Defesa Pessoal;Estadual;11;mar
+PB;Defesa Pessoal;Estadual;3;mar
+PE;Defesa Pessoal;Estadual;4;mar
+PE;Defesa Pessoal;Regional;1;mar
+PE;Segurança Dignitario;Nacional;5;mar
+PI;Defesa Pessoal;Estadual;2;mar
+PR;Defesa Pessoal;Estadual;8;mar
+PR;Defesa Pessoal;Nacional;5;mar
+PR;Funcional;Nacional;15;mar
+RJ;Defesa Pessoal;Estadual;4;mar
+RJ;Segurança Dignitario;Nacional;18;mar
+RN;Defesa Pessoal;Estadual;5;mar
+RN;Funcional;Estadual;6;mar
+RO;Defesa Pessoal;Estadual;7;mar
+RR;Defesa Pessoal;Estadual;2;mar
+RS;Defesa Pessoal;Estadual;78;mar
+RS;Defesa Pessoal;Nacional;4;mar
+RS;Defesa Pessoal;Regional;8;mar
+RS;Funcional;Estadual;5;mar
+SC;Caçador de Subsistência;;5;mar
+SC;Defesa Pessoal;Estadual;5;mar
+SC;Funcional;Estadual;10;mar
+SE;Defesa Pessoal;Estadual;1;mar
+SE;Funcional;Estadual;19;mar
+SP;Defesa Pessoal;Estadual;44;mar
+SP;Defesa Pessoal;Nacional;2;mar
+SP;Funcional;Estadual;435;mar
+SP;Funcional;;4;mar
+SP;Segurança Dignitario;Nacional;2;mar
+TO;Defesa Pessoal;Estadual;1;mar
+TO;Funcional;Estadual;4;mar
